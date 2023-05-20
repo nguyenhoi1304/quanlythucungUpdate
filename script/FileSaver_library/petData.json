@@ -1,0 +1,44 @@
+[
+  {
+    "id": "P001",
+    "name": "Symph",
+    "age": 4,
+    "type": "Dog",
+    "color": "#bc1010",
+    "weight": 12,
+    "length": 35,
+    "breed": "Doberman Plnscher",
+    "vaccinated": true,
+    "dewormed": true,
+    "sterilized": false,
+    "date": "2023-05-19T18:28:41.567Z"
+  },
+  {
+    "id": "P002",
+    "name": "Charlie Tux",
+    "age": 5,
+    "color": "yellow",
+    "type": "Cat",
+    "weight": 12,
+    "length": 22,
+    "breed": "Tabby",
+    "vaccinated": true,
+    "dewormed": true,
+    "sterilized": false,
+    "date": "2023-05-19T18:28:41.567Z"
+  },
+  {
+    "id": "p003",
+    "name": "chuchocon",
+    "age": 12,
+    "type": "Dog",
+    "color": "#cc2828",
+    "weight": 12,
+    "length": 23,
+    "breed": "Doberman Plnscher",
+    "vaccinated": false,
+    "dewormed": true,
+    "sterilized": true,
+    "date": "2023-05-19T18:45:03.668Z"
+  }
+]
